@@ -136,3 +136,7 @@ function setSomeChallengesComplete (path) {
   }
   fs.writeFileSync(path, JSON.stringify(challenges), '', null)
 }
+
+
+
+const testHere = "test here"
